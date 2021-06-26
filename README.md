@@ -1,6 +1,6 @@
 # sherspect
 portfolio template
-See the output :- https://geeksuman.github.io/sherspect/
+See the output :- https://itssuman.ga/
 designed and developed by 
 
 Suman Maji
